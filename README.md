@@ -18,9 +18,26 @@ effective at handling long sequence data.
 # Requirements
 
 tensorflow (2.4.0)
+
 tensorflow-gpu (2.4.0)
+
 keras (2.6.0)
+
 numpy (1.19.2)
+
 matplotlib (2.2.2)
+
 scikit-fda (0.5)
+
+
+# Demos
+
+We also provide two demo notebooks that show how to reproduce some of the results and figures from the paper.
+
+##Simulation data prediction
+
+
+
+##Real stock data forecast
+
 
