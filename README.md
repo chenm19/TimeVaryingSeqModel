@@ -39,7 +39,7 @@ We also provide two demo notebooks that show how to reproduce some of the result
 
 ![image](https://github.com/chenm19/TimeVaryingSeqModel/blob/main/figs/Simulation.png)
 
-The https://github.com/chenm19/TimeVaryingSeqModel/blob/main/Simulation%20data%20experiment/Simulation%20data%20prediction.ipynb notebook contains a demonstration and tutorial for experiments comparing the predicted effects of the ITV,ETV model and the original RNN and LSTM on simulation data.
+The https://github.com/chenm19/TimeVaryingSeqModel/blob/main/Simulation%20data%20prediction.ipynb notebook contains a demonstration and tutorial for experiments comparing the predicted effects of the ITV,ETV model and the original RNN and LSTM on simulation data.
 
 
 
@@ -48,5 +48,5 @@ The https://github.com/chenm19/TimeVaryingSeqModel/blob/main/Simulation%20data%2
 
 ![image](https://github.com/chenm19/TimeVaryingSeqModel/blob/main/figs/stock.png)
 
-The notebook https://github.com/chenm19/TimeVaryingSeqModel/blob/main/Real%20data%20experiment/Twitter%20stock%20forecast.ipynb contains a demonstration and tutorial for an experiment comparing the ETV model with the original RNN and LSTM predictions on Twitter stock data.
+The notebook https://github.com/chenm19/TimeVaryingSeqModel/blob/main/Twitter%20stock%20forecast.ipynb contains a demonstration and tutorial for an experiment comparing the ETV model with the original RNN and LSTM predictions on Twitter stock data.
 
